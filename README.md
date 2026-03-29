@@ -1,17 +1,17 @@
 # Hi 👋
 
-I'm a PhD student researcher working on **Distributed Drive Electric Vehicles (DDEV)** and **Reinforcement Learning (RL)**.
+I'm a PhD student researcher in **Mechanical Engineering (Vehicle Engineering)**.
 
 ## 🔬 Research
 
-- Distributed Drive EVs (4WID: Four-Wheel Independent Drive)
 - Energy Management & Optimization
+- Distributed Drive EVs (4WID: Four-Wheel Independent Drive)
 - Reinforcement Learning for Vehicle Control
 - Multi-Agent & Decision-Making Systems
 
 ## 🛠️ Tools
 
-`Python` · `PyTorch` · `ROS` · `CARLA` · `Linux`
+`Python` · `PyTorch` · `ROS` · `CARLA` · `Linux` · `Matlab` 
 
 ## 📫 Contact
 
