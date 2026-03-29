@@ -1,6 +1,6 @@
 # Hi 👋
 
-I'm a PhD researcher working on **Distributed Drive Electric Vehicles (DDEV)** and **Reinforcement Learning (RL)**.
+I'm a PhD student researcher working on **Distributed Drive Electric Vehicles (DDEV)** and **Reinforcement Learning (RL)**.
 
 ## 🔬 Research
 
